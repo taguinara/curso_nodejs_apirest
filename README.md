@@ -1,2 +1,11 @@
-# curso_nodejs_apirest
-Curso de Rest com NodeJS: API com Express e MySQL.
+## Curso de Rest com NodeJS: API com Express e MySQL.
+
+* Criação de API REST;
+* Utilização do MySQL;
+* Express para criação do servidor;
+* Manipulação de datas utilizando o Moment.js; e
+* Validação dos dados.
+
+Também foram utilizados:
+* Postman;
+* MySQL Workbench.
